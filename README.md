@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sunshine
 ========
 
@@ -26,3 +27,8 @@ For help migrating an existing repo (fork or clone prior to 10/18/15), please ch
 For the original version, please go [here](https://github.com/udacity/Sunshine).
 
 A changelog for the course can be found [here](https://docs.google.com/a/knowlabs.com/document/d/193xJb_OpcNCqgquMhxPrMh05IEYFXQqt0S6-6YK8gBw/pub).
+=======
+# Tutorial_Sunshine
+
+This is a readme file
+>>>>>>> 6445a566c0ca0f06b95e7a8fb2381f4a1ae0d6a0
